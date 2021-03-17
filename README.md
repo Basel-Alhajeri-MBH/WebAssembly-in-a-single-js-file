@@ -1,1 +1,1 @@
-# WebAssembly-in-a-single
+# WebAssembly-in-a-single-js-file
